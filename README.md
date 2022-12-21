@@ -1,2 +1,2 @@
 # SmileArcTools
-This is a small tools for handle on geodata based on arcpy in arcgis pro
+This is a small tools for handle on geodata based on arcpy.
